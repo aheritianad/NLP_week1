@@ -1,6 +1,4 @@
-<h1 style="font-family:verdana;font-size:300%;text-align:center;background-color:#f2f2f2;color:#0d0d0d">NLP - Labs -- AMMI-2022</h1>
-
-<h1 style="font-family:verdana;font-size:180%;text-align:Center;color:#993333"> week1</h1>
+# Labs NLP week1 AIMS-AMMI 2022
 
 ```bash
 NLP_week1
@@ -20,6 +18,7 @@ NLP_week1
 └── README.md
 ```
 ## Lab1 : Language Identifier (LID)
+
 ### Data
 - `train1.txt` & `valid1.txt`
 - `train2.txt` & `valid2.txt`
