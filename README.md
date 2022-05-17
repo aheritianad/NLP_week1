@@ -54,7 +54,7 @@ NLP_week1
 ### Notebook
 `intro_to_wordvectors.ipynb`
 
-## Lab3 : `n-gram models` -
+## Lab3 : `n-gram models` - Text Generator 
 
 ### Data
 - `train1.txt` & `valid1.txt`
