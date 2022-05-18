@@ -27,6 +27,7 @@ NLP_week1
 |   │       └── train1.txt
 |   │       └── train2.txt
 |   │       └── valid1.txt
+|   |       └── valid2.txt
 │   └── n_gram_models.ipynb
 |
 └── README.md
@@ -54,11 +55,11 @@ NLP_week1
 ### Notebook
 `intro_to_wordvectors.ipynb`
 
-## Lab3 : `n-gram models` - Text Generator 
+## Lab3 : `n-gram models` - Text Generator
 
 ### Data
 - `train1.txt` & `valid1.txt`
-- `train2.txt`
+- `train2.txt` & `valid2.txt`
 
 ### Notebook
 `n_gram_models.ipynb`
